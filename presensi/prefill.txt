@@ -1,0 +1,7 @@
+https://docs.google.com/forms/d/e/1FAIpQLSeJ8hozXWwmj6WpSIg39q9H1JIy4tfXPZz7mCulOZm4YOgieQ/formResponse
+entry.1161975163=unit&
+entry.358730154=namakaryawan&
+entry.1561924045=lokasi&
+entry.695554688=mulai&
+entry.979836879=selesai&
+entry.243387380=capaian
